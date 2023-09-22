@@ -154,9 +154,9 @@ transform: rotate(60deg);
 }
 
 .cover__foto-vertical-rectangle {
-	position: absolute;
-	top: 375px;
-	right: 33px;
+	position: relative;
+	top: -125px;
+left: 273px;
 }
 
 .cover__foto-underline{
