@@ -1,0 +1,33 @@
+@font-face {
+  font-family: Inter;
+  src:
+    url(./Inter-VariableFont.woff2) format('woff2'),
+    url(./Inter-VariableFont.woff) format('woff');
+  font-weight: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Inter;
+  src:
+    url(./Inter-VariableFont.woff2) format('woff2'),
+    url(./Inter-VariableFont.woff) format('woff');
+  font-weight: bold;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SnellRoundhand";
+  src: url(./SnellRoundhand.woff2) format("woff2"),
+    url(./Inter-VariableFont.woff) format("woff");
+  font-weight: normal;
+	font-display: swap;
+}
+
+@font-face {
+  font-family: "SnellRoundhand";
+  src: url(./SnellRoundhand.woff2) format("woff2"),
+    url(./Inter-VariableFont.woff) format("woff");
+  font-weight: bold;
+	font-display: swap;
+}
