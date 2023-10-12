@@ -28,6 +28,7 @@ ul {
 }
 
 a {
+  text-decoration: none;
   color: inherit;
 }
 
@@ -39,7 +40,6 @@ html {
   background: rgb(144 144 144 / 1);
   padding: 40px;
   border-radius: 7px;
-  /* max-width: 390px; */
   margin: 0 auto;
 }
 
@@ -85,7 +85,7 @@ html {
 }
 
 .cover {
-  min-height: 474px;
+  min-height: 500px;
   background: linear-gradient(
     to right,
     rgb(222 222 222 / 1) 50%,
@@ -157,26 +157,26 @@ html {
 
 .cover__foto-vertical-rectangle {
   position: absolute;
-  top: 320px;
-  right: 36px;
+  top: 350px;
+  right: 44px;
 }
 
 .cover__foto-underline {
   position: absolute;
   bottom: -10px;
-  right: -1px;
+  right: 0;
 }
 
 .cover__foto-curve-line {
   position: absolute;
-  top: 385px;
-  right: 140px;
+  top: 431px;
+  right: 160px;
 }
 
 .cover__foto-half-circle {
   position: absolute;
-  top: 455px;
-  left: 25px;
+  top: 475px;
+  left: 35px;
 }
 
 .intro {
