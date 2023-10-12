@@ -39,7 +39,7 @@ html {
   background: rgb(144 144 144 / 1);
   padding: 40px;
   border-radius: 7px;
-  max-width: 390px;
+  /* max-width: 390px; */
   margin: 0 auto;
 }
 
