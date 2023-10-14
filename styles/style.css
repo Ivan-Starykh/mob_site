@@ -38,7 +38,7 @@ html {
 
 .wrapper {
   background: rgb(144 144 144 / 1);
-  padding: 40px;
+  padding: 30px;
   border-radius: 7px;
   margin: 0 auto;
 }
@@ -214,10 +214,10 @@ html {
   border-color: black;
   border-style: solid;
   transform: rotate(90deg);
-  border-width: 0 0.2em 1em 0;
+  border-width: 0 0.2em 2em 0;
   height: 1em;
-  top: 700px;
-  left: 52px;
+  top: 0;
+  left: -30px;
 }
 
 .intro__title-bold-text {
@@ -239,12 +239,19 @@ html {
 
 .reasons {
   background-color: #2f2f2f;
-  padding-top: 80px;
+  padding-top: 30px;
   font-size: 18px;
   text-align: center;
   font-weight: normal;
   color: #f5f5f5;
   line-height: 1.5;
+}
+
+.content-section__social-arrow{
+	width: 78%;
+	height: 80px;
+margin-left: auto;
+margin-bottom: 20px;
 }
 
 .content-section__subtitle {
@@ -259,7 +266,7 @@ html {
   list-style: none;
   display: flex;
   justify-content: center;
-  gap: 15px;
+  gap: 25px;
   padding: 25px 0;
 }
 
